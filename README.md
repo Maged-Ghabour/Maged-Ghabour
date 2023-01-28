@@ -6,7 +6,7 @@ I'm a self-taught passionate , talanted backend developer adepted at contriibuil
 
 - 💼 Full Stack Wed Developer using PHP and Laravel
 - ❤️ I love cooding , programing , challenges and of course Open Sourse.
-- 📫 Reach me at maged.ghabour2016@gmail.com@gmail.com
+- 📫 Reach me at maged.ghabour2016@gmail.com
 - 🌱 I’m currently learning Vue and React
 - 🤝 I'm open to collaborating on interesting projects as a developer
 - ⚡ Fun fact: graduated from faculty of Computers and Inframtion
