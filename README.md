@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=magedGhabour&sshow_icons=true&theme=radical&hide_border=true&layout=compact" alt="maged Ghabour's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwassef&show_icons=true&theme=radical&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MagedGhabour&sshow_icons=true&theme=radical&hide_border=true&layout=compact" alt="maged Ghabour's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwassef&show_icons=true&theme=radical&layout=compact&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
